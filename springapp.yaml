@@ -1,0 +1,42 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    name: springapp
+  name: springapp
+spec:
+  replicas: 2
+  strategy:
+    type: RollingUpdate
+  selector:
+    matchLabels:
+      name: springapp
+  template:
+    metadata:
+      labels:
+        name: springapp
+    spec:
+      containers:
+      - image: bsarathkumar42/myspringimage:1
+        name: springapp
+        ports:
+        - name: springapp
+          containerPort: 8080
+---
+# Node Port Service
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    name: springapp
+  name: springapp
+spec:
+  type: NodePort
+  ports:
+  - port: 8080
+    targetPort: 8080
+  selector:
+    name: springapp
+
+
