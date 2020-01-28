@@ -46,6 +46,21 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>Releases Nexus Repository</name>
+	      <url>http://13.233.121.236:8081/repository/sarath142-releases/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Snapshot Nexus Repository </name>
+	      <url>http://13.233.121.236:8081/repository/sarath142/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
