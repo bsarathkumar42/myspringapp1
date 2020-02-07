@@ -1,0 +1,380 @@
+Script started on 2020-02-07 08:34:02+00:00
+                             
+                    sh "mvn clean package -DskipTests=true"
+                }
+            }
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]#                              
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]#                     sh "mvn clean package -DskipTests=true"
+sh: mvn clean package -DskipTests=true: No such file or directory
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]#                 }
+bash: syntax error near unexpected token `}'
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]#             }
+bash: syntax error near unexpected token `}'
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]#         }
+bash: syntax error near unexpected token `}'
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# /*stage('Sonarqube') {
+bash: syntax error near unexpected token `'Sonarqube''
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# 
+Display all 1235 possibilities? (y or n)
+!                                   fips-mode-setup                     lesskey                             psfxtable                           skill
+./                                  fixfiles                            lesspipe.sh                         ptaskset                            slabtop
+:                                   fix-info-dir                        let                                 ptx                                 slattach
+[                                   fixparts                            lexgrog                             pushd                               sleep
+[[                                  flock                               lgroupadd                           pwck                                snice
+]]                                  fmt                                 lgroupdel                           pwconv                              soelim
+{                                   fold                                lgroupmod                           pwd                                 sort
+}                                   for                                 lid                                 pwdx                                sotruss
+accessdb                            free                                link                                pwhistory_helper                    source
+addgnupghome                        fsck                                linux32                             pwmake                              spacewalk-channel
+addpart                             fsck.cramfs                         linux64                             pwscore                             spacewalk-channel-3.6
+adduser                             fsck.ext2                           linux-boot-prober                   pwunconv                            split
+agetty                              fsck.ext3                           ll                                  pydoc3.6                            sprof
+alias                               fsck.ext4                           ln                                  pyinotify                           ss
+alternatives                        fsck.minix                          lnewusers                           pyjwt                               ssh
+anacron                             fsck.xfs                            lnstat                              pyvenv-3.6                          ssh-add
+appletviewer                        fsfreeze                            loadkeys                            qemu-ga                             ssh-agent
+applygnupgdefaults                  fstrim                              load_policy                         raw                                 ssh-copy-id
+apropos                             function                            loadunimap                          rcjenkins                           sshd
+arch                                funzip                              local                               rct                                 ssh-keygen
+arp                                 fuse2fs                             locale                              rdisc                               ssh-keyscan
+arpd                                g13                                 localectl                           rdma                                sss_cache
+arping                              g13-syshelp                         localedef                           read                                sssd
+auditctl                            gapplication                        logger                              readarray                           sss_ssh_authorizedkeys
+auditd                              gawk                                login                               readlink                            sss_ssh_knownhostsproxy
+augenrules                          gawklibpath_append                  loginctl                            readonly                            stat
+aulast                              gawklibpath_default                 logname                             readprofile                         stdbuf
+aulastlog                           gawklibpath_prepend                 logout                              realpath                            stty
+aureport                            gawkpath_append                     logrotate                           reboot                              su
+ausearch                            gawkpath_default                    logsave                             recode-sr-latin                     subscription-manager
+ausyscall                           gawkpath_prepend                    look                                redhat-access-insights              sudo
+authconfig                          gdbm_dump                           losetup                             rename                              sudoedit
+authselect                          gdbm_load                           lpasswd                             renew-dummy-cert                    sudoreplay
+autrace                             gdbmtool                            ls                                  renice                              sulogin
+auvirt                              gdbus                               lsattr                              repoclosure                         sum
+avcstat                             gdisk                               lsblk                               repodiff                            suspend
+awk                                 gencat                              lscpu                               repo-graph                          swaplabel
+b2sum                               genhomedircon                       lsgpio                              repomanage                          swapoff
+badblocks                           genhostid                           lshw                                repoquery                           swapon
+base32                              genl                                lsiio                               reposync                            switch_root
+base64                              genl-ctrl-list                      lsinitrd                            repotrack                           sync
+basename                            geqn                                lsipc                               rescan-scsi-bus.sh                  sysctl
+bash                                getcap                              lslocks                             reset                               syspurpose
+bashbug                             getconf                             lslogins                            resize2fs                           systemctl
+bashbug-64                          getenforce                          lsmem                               resizecons                          systemd-analyze
+bg                                  getent                              lsmod                               resizepart                          systemd-ask-password
+bind                                getfacl                             lsns                                resolvconf                          systemd-cat
+biosdecode                          getkeycodes                         lspci                               resolvectl                          systemd-cgls
+blkdeactivate                       getopt                              lsscsi                              restorecon                          systemd-cgtop
+blkdiscard                          getopts                             luseradd                            restorecon_xattr                    systemd-delta
+blkid                               getpcaps                            luserdel                            return                              systemd-detect-virt
+blkzone                             getsebool                           lusermod                            rev                                 systemd-escape
+blockdev                            gettext                             makedb                              rfkill                              systemd-firstboot
+bond2team                           gettext.sh                          make-dummy-cert                     rh-cloud-firstboot.py               systemd-hwdb
+bootctl                             gio                                 makedumpfile                        rhn-channel                         systemd-inhibit
+break                               gio-querymodules-64                 man                                 rhn_check                           systemd-machine-id-setup
+bridge                              git                                 mandb                               rhn_check-3.6                       systemd-mount
+--More--[Kbrotli                              git-receive-pack                    manpath                             rhn-profile-sync                    systemd-notify
+--More--[K[root@ip-172-31-6-84 myspringapp1]# arQubeEnv('sonar') {
+bash: syntax error near unexpected token `'sonar''
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# 
+Display all 1235 possibilities? (y or n)
+!                                   fips-mode-setup                     lesskey                             psfxtable                           skill
+./                                  fixfiles                            lesspipe.sh                         ptaskset                            slabtop
+:                                   fix-info-dir                        let                                 ptx                                 slattach
+[                                   fixparts                            lexgrog                             pushd                               sleep
+[[                                  flock                               lgroupadd                           pwck                                snice
+]]                                  fmt                                 lgroupdel                           pwconv                              soelim
+{                                   fold                                lgroupmod                           pwd                                 sort
+}                                   for                                 lid                                 pwdx                                sotruss
+accessdb                            free                                link                                pwhistory_helper                    source
+addgnupghome                        fsck                                linux32                             pwmake                              spacewalk-channel
+addpart                             fsck.cramfs                         linux64                             pwscore                             spacewalk-channel-3.6
+adduser                             fsck.ext2                           linux-boot-prober                   pwunconv                            split
+agetty                              fsck.ext3                           ll                                  pydoc3.6                            sprof
+alias                               fsck.ext4                           ln                                  pyinotify                           ss
+alternatives                        fsck.minix                          lnewusers                           pyjwt                               ssh
+anacron                             fsck.xfs                            lnstat                              pyvenv-3.6                          ssh-add
+appletviewer                        fsfreeze                            loadkeys                            qemu-ga                             ssh-agent
+applygnupgdefaults                  fstrim                              load_policy                         raw                                 ssh-copy-id
+apropos                             function                            loadunimap                          rcjenkins                           sshd
+arch                                funzip                              local                               rct                                 ssh-keygen
+arp                                 fuse2fs                             locale                              rdisc                               ssh-keyscan
+arpd                                g13                                 localectl                           rdma                                sss_cache
+arping                              g13-syshelp                         localedef                           read                                sssd
+auditctl                            gapplication                        logger                              readarray                           sss_ssh_authorizedkeys
+auditd                              gawk                                login                               readlink                            sss_ssh_knownhostsproxy
+augenrules                          gawklibpath_append                  loginctl                            readonly                            stat
+aulast                              gawklibpath_default                 logname                             readprofile                         stdbuf
+aulastlog                           gawklibpath_prepend                 logout                              realpath                            stty
+aureport                            gawkpath_append                     logrotate                           reboot                              su
+ausearch                            gawkpath_default                    logsave                             recode-sr-latin                     subscription-manager
+ausyscall                           gawkpath_prepend                    look                                redhat-access-insights              sudo
+authconfig                          gdbm_dump                           losetup                             rename                              sudoedit
+authselect                          gdbm_load                           lpasswd                             renew-dummy-cert                    sudoreplay
+autrace                             gdbmtool                            ls                                  renice                              sulogin
+auvirt                              gdbus                               lsattr                              repoclosure                         sum
+avcstat                             gdisk                               lsblk                               repodiff                            suspend
+awk                                 gencat                              lscpu                               repo-graph                          swaplabel
+b2sum                               genhomedircon                       lsgpio                              repomanage                          swapoff
+badblocks                           genhostid                           lshw                                repoquery                           swapon
+base32                              genl                                lsiio                               reposync                            switch_root
+base64                              genl-ctrl-list                      lsinitrd                            repotrack                           sync
+basename                            geqn                                lsipc                               rescan-scsi-bus.sh                  sysctl
+bash                                getcap                              lslocks                             reset                               syspurpose
+bashbug                             getconf                             lslogins                            resize2fs                           systemctl
+bashbug-64                          getenforce                          lsmem                               resizecons                          systemd-analyze
+bg                                  getent                              lsmod                               resizepart                          systemd-ask-password
+bind                                getfacl                             lsns                                resolvconf                          systemd-cat
+biosdecode                          getkeycodes                         lspci                               resolvectl                          systemd-cgls
+blkdeactivate                       getopt                              lsscsi                              restorecon                          systemd-cgtop
+blkdiscard                          getopts                             luseradd                            restorecon_xattr                    systemd-delta
+blkid                               getpcaps                            luserdel                            return                              systemd-detect-virt
+blkzone                             getsebool                           lusermod                            rev                                 systemd-escape
+blockdev                            gettext                             makedb                              rfkill                              systemd-firstboot
+bond2team                           gettext.sh                          make-dummy-cert                     rh-cloud-firstboot.py               systemd-hwdb
+bootctl                             gio                                 makedumpfile                        rhn-channel                         systemd-inhibit
+break                               gio-querymodules-64                 man                                 rhn_check                           systemd-machine-id-setup
+bridge                              git                                 mandb                               rhn_check-3.6                       systemd-mount
+--More--[Kbrotli                              git-receive-pack                    manpath                             rhn-profile-sync                    systemd-notify
+build-locale-archive                git-shell                           mapfile                             rhn-profile-sync-3.6                systemd-path
+builtin                             git-upload-archive                  mapscrn                             rhn_register                        systemd-resolve
+busctl                              git-upload-pack                     matchpathcon                        rhn_register-3.6                    systemd-run
+cal                                 glib-compile-schemas                mcookie                             rhnreg_ks                           systemd-socket-activate
+ca-legacy                           glibc_post_upgrade.x86_64           md5sum                              rhnreg_ks-3.6                       systemd-stdio-bridge
+caller                              gneqn                               mesg                                rhnsd                               systemd-sysusers
+capsh                               gnroff                              mii-diag                            rhsmcertd                           systemd-tmpfiles
+captoinfo                           gpasswd                             mii-tool                            rhsm-debug                          systemd-tty-ask-password-agent
+case                                gpg                                 miniterm-3.py                       rhui-set-release                    systemd-umount
+cat                                 gpg2                                mkdict                              rm                                  tabs
+catchsegv                           gpg-agent                           mkdir                               rmdir                               tac
+catman                              gpgconf                             mkdumprd                            rmic                                tail
+cd                                  gpg-connect-agent                   mke2fs                              rmid                                tar
+centrino-decode                     gpg-error                           mkfifo                              rmiregistry                         taskset
+cfdisk                              gpgparsemail                        mkfs                                rmmod                               tbl
+cgdisk                              gpgsm                               mkfs.cramfs                         rngd                                tcsd
+chacl                               gpgsplit                            mkfs.ext2                           rngtest                             teamd
+chage                               gpgv                                mkfs.ext3                           route                               teamdctl
+chardetect                          gpgv2                               mkfs.ext4                           routef                              teamnl
+chattr                              gpg-zip                             mkfs.minix                          routel                              tee
+chcon                               gpic                                mkfs.xfs                            rpm                                 telinit
+chcpu                               gpio-event-mon                      mkhomedir_helper                    rpm2archive                         test
+checkmodule                         gpio-hammer                         mkinitrd                            rpm2cpio                            then
+checkpolicy                         grep                                mklost+found                        rpmdb                               tic
+chgpasswd                           groff                               mknod                               rpmkeys                             time
+chgrp                               grops                               mksquashfs                          rpmquery                            timedatectl
+chkconfig                           grotty                              mkswap                              rpmverify                           timedatex
+chmem                               groupadd                            mktemp                              rsync                               timeout
+chmod                               groupdel                            modinfo                             rsyslogd                            times
+choose_repo.py                      groupmems                           modprobe                            rsyslog-recover-qi.pl               tipc
+chown                               groupmod                            modulemd-validator-v1               rtacct                              tload
+chpasswd                            groups                              more                                rtcwake                             tmon
+chronyc                             growpart                            mount                               rtmon                               tnameserv
+chronyd                             grpck                               mountpoint                          rtpr                                toe
+chroot                              grpconv                             msgattrib                           rtstat                              top
+chrt                                grpunconv                           msgcat                              runcon                              touch
+chvt                                grub2-bios-setup                    msgcmp                              runlevel                            tput
+cksum                               grub2-editenv                       msgcomm                             run-parts                           tr
+clear                               grub2-file                          msgconv                             runuser                             tracepath
+clock                               grub2-fstest                        msgen                               rvi                                 tracepath6
+clockdiff                           grub2-get-kernel-settings           msgexec                             rview                               trap
+cloud-init                          grub2-glue-efi                      msgfilter                           sasldblistusers2                    troff
+cloud-init-per                      grub2-install                       msgfmt                              saslpasswd2                         true
+cmp                                 grub2-kbdcomp                       msggrep                             schemagen                           truncate
+col                                 grub2-menulst2cfg                   msginit                             scp                                 trust
+colcrt                              grub2-mkconfig                      msgmerge                            script                              tset
+colrm                               grub2-mkfont                        msgunfmt                            scriptreplay                        tsort
+column                              grub2-mkimage                       msguniq                             scsi_logging_level                  tty
+comm                                grub2-mklayout                      mv                                  scsi_mandat                         tune2fs
+command                             grub2-mknetdir                      namei                               scsi_readcap                        tuned
+compgen                             grub2-mkpasswd-pbkdf2               nameif                              scsi_ready                          tuned-adm
+complete                            grub2-mkrelpath                     native2ascii                        scsi-rescan                         turbostat
+compopt                             grub2-mkrescue                      ndptool                             scsi_satl                           type
+consolehelper                       grub2-mkstandalone                  needs-restarting                    scsi_start                          typeset
+consoletype                         grub2-ofpathname                    neqn                                scsi_stop                           tzselect
+continue                            grub2-probe                         netstat                             scsi_temperature                    udevadm
+--More--[K[root@ip-172-31-6-84 myspringapp1]#  sonar:sonar -Dsonar.host.url=http://52.66.250.13:9000 -Dsonar.login=11b8a2aced56d047f183092eb7268c9ae67c73e4 "
+>           
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+>           
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+>               timeout(time: 02, unit: 'MINUTES') {
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+> //waitForQualityGate abortPipeline: true
+>             }
+>         }
+>     }
+> }
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+>   
+>        
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+>        
+> 
+{                          .git/                      JenkinsfileKubernetes      pom.xml                    springBootMongo.yml        
+docker-compose.yml         javawebapp-deployment.yml  jenkinsfilemyspringapp     README.md                  src/                       
+Dockerfile                 JenkinsfileDockerSwarm     Jenkins Kubernetes.pdf     springapp.yaml             target/                    
+> stage("publish to nexus") {
+>             steps {
+>                 script {
+>                     
+>                     sh  "mvn deploy"
+> 
+>          
+>         }
+>     }
+> }
+> */
+> 
+> }
+> }^C
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# clear
+[3J[H[2J]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# vi Jenkinsfile
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;58r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[58;1H"Jenkinsfile" [New File][2;1H[1m[34m~                                                                                                                                                                                                                 [3;1H~                                                                                                                                                                                                                 [4;1H~                                                                                                                                                                                                                 [5;1H~                                                                                                                                                                                                                 [6;1H~                                                                                                                                                                                                                 [7;1H~                                                                                                                                                                                                                 [8;1H~                                                                                                                                                                                                                 [9;1H~                                                                                                                                                                                                                 [10;1H~                                                                                                                                                                                                                 [11;1H~                                                                                                                                                                                                                 [12;1H~                                                                                                                                                                                                                 [13;1H~                                                                                                                                                                                                                 [14;1H~                                                                                                                                                                                                                 [15;1H~                                                                                                                                                                                                                 [16;1H~                                                                                                                                                                                                                 [17;1H~                                                                                                                                                                                                                 [18;1H~                                                                                                                                                                                                                 [19;1H~                                                                                                                                                                                                                 [20;1H~                                                                                                                                                                                                                 [21;1H~                                                                                                                                                                                                                 [22;1H~                                                                                                                                                                                                                 [23;1H~                                                                                                                                                                                                                 [24;1H~                                                                                                                                                                                                                 [25;1H~                                                                                                                                                                                                                 [26;1H~                                                                                                                                                                                                                 [27;1H~                                                                                                                                                                                                                 [28;1H~                                                                                                                                                                                                                 [29;1H~                                                                                                                                                                                                                 [30;1H~                                                                                                                                                                                                                 [31;1H~                                                                                                                                                                                                                 [32;1H~                                                                                                                                                                                                                 [33;1H~                                                                                                                                                                                                                 [34;1H~                                                                                                                                                                                                                 [35;1H~                                                                                                                                                                                                                 [36;1H~                                                                                                                                                                                                                 [37;1H~                                                                                                                                                                                                                 [38;1H~                                                                                                                                                                                                                 [39;1H~                                                                                                                                                                                                                 [40;1H~                                                                                                                                                                                                                 [41;1H~                                                                                                                                                                                                                 [42;1H~                                                                                                                                                                                                                 [43;1H~                                                                                                                                                                                                                 [44;1H~                                                                                                                                                                                                                 [45;1H~                                                                                                                                                                                                                 [46;1H~                                                                                                                                                                                                                 [47;1H~                                                                                                                                                                                                                 [48;1H~                                                                                                                                                                                                                 [49;1H~                                                                                                                                                                                                                 [50;1H~                                                                                                                                                                                                                 [51;1H~                                                                                                                                                                                                                 [52;1H~                                                                                                                                                                                                                 [53;1H~                                                                                                                                                                                                                 [54;1H~                                                                                                                                                                                                                 [55;1H~                                                                                                                                                                                                                 [56;1H~                                                                                                                                                                                                                 [57;1H~                                                                                                                                                                                                                 [1;1H[?25h[?25l[m[58;1H[1m-- INSERT --[m[58;13H[K[1;1H[?25h[?25lpipeline {
+    agent any[2;14H[K[3;1H[K[3;1H[?25h[?25l[8Ctools {[4;1H[K[4;1H[?25h[?25l[12Cmaven "maven-3.6.3"[5;1H[K[5;1H[?25h[?25l[7C/* choice([6;1H[K[6;1H[?25h[?25l[12Cname: 'sarath',[7;1H[K[7;1H[?25h[?25l[12Cchoices: ['DEV', 'QA', 'UAT', 'PROD'],[8;1H[K[8;1H[?25h[?25l[12Cdescription: 'Passing the parameters')[9;1H[K[9;1H[?25h[?25l[9C*/[10;1H[K[10;1H[?25h[?25l    }[11;1H[K[11;1H[?25h[?25l[12;1H[K[12;1H[?25h[?25l    environment {[13;1H[K[13;1H[?25h[?25l[14;1H[K[14;1H[?25h[?25l[8C//NEXUS_VERSION = "nexus3"[15;1H[K[15;1H[?25h[?25l[8C//NEXUS_PROTOCOL = "http"
+        //NEXUS_UR[16;19H[K[16;19H[?25h[?25lL = "13.233.121.236:8081"[17;1H[K[17;1H[?25h[?25l[8C//NEXUS_REPOSITORY = "sarath142"[18;1H[K[18;1H[?25h[?25l[8C//NEXUS_CREDENTIAL_ID = "nexus_cred"[19;1H[K[19;1H[?25h[?25l[16Cregistry = "bsarathkumar42/myspringapp1"[20;1H[K[20;1H[?25h[?25l[8CregistryCredential = 'dockerhub'[21;1H[K[21;1H[?25h[?25l[8CdockerImage = ''[22;1H[K[22;1H[?25h[?25l[16Cproject = 'myspringapp1'
+                appName = 'myspringapp1'[23;41H[K[24;1H[K[24;1H[?25h[?25l[16CserviceName = "${appName}-backend"
+                imageVersion = 'development'[25;45H[K[25;45H[?25h[?25l[26;1H[K[26;1H[?25h[?25l[16Cnamespace = 'development'
+                namespace1 = 'production'[27;42H[K[28;1H[K[28;1H[?25h[?25l[16CimageTag = "gcr.io/${project}/${appName}:${imageVersion}.${env.BUIL[?25h[?25lD_NUMBER}"
+                //scannerHome = tool 'SonarQubeScanner'[29;56H[K[30;1H[K[30;1H[?25h[?25l[31;1H[K[31;1H[?25h[?25l    }[32;1H[K[32;1H[?25h[?25l   /* stages {[33;1H[K[33;1H[?25h[?25l    stage('Environment') {[34;1H[K[34;1H[?25h[?25l      steps {[35;1H[K[35;1H[?25h[?25l[8Cecho " The environment is ${params.Env}"
+      }[36;8H[K[37;1H[K[37;1H[?25h[?25l    }[38;1H[K[38;1H[?25h[?25l  }*/[39;1H[K[39;1H[?25h[?25l    stages {[40;1H[K[40;1H[?25h[?25l[8Cstage("clone code") {[41;1H[K[41;1H[?25h[?25l[12Csteps {[42;1H[K[42;1H[?25h[?25l[16Cscript {[43;1H[K[43;1H[?25h[?25l[44;1H[K[44;1H[?25h[?25l[21Cgit credentialsId: 'Github_cre[?25h[?25ldentials', url: 'https://github.com/bsarathkumar42/mysp[?25h[?25lringapp1.git'[45;1H[K[45;1H[?25h[?25l[16C}[46;1H[K[46;1H[?25h[?25l[12C}[47;1H[K[47;1H[?25h[?25l[8C}[48;1H[K[48;1H[?25h[?25l[8Cstage("mvn build") {[49;1H[K[49;1H[?25h[?25l[12Csteps {[50;1H[K[50;1H[?25h[?25l[16Cscript {[51;1H[K[51;1H[?25h[?25l[52;1H[K[52;1H[?25h[?25l[20Csh "mvn clean package -DskipTests=true"[53;1H[K[53;1H[?25h[?25l[16C}[54;1H[K[54;1H[?25h[?25l[12C}[55;1H[K[55;1H[?25h[?25l[8C}[56;1H[K[56;1H[?25h[?25l[8C/*      stage('Sonarqube') {[57;1H[K[57;1H[?25h[?25l[24Csteps {[?25h[?25l[1;57r[57;1H
+[1;58r[57;33HwithSonarQubeEnv('sonar') {[58;11H[1m(paste) --[57;1H[?25h[?25l[1;57r[m[57;1H
+[1;58r[57;49Hsh " mvn sonar:sonar -Dsonar.host.url=http://52[?25h[?25l.66.250.13:9000 -Dsonar.login=11b8a2aced56d047f183092eb7[?25h[?25l268c9ae67c73e4 "[?25h[?25l[1;57r[57;1H
+[1;58r[57;37Htimeout(time: 02, unit: 'MINUTES') {[?25h[?25l[?25h[?25l[1;57r[1;1H[2M[1;58r[56;57H//waitForQualityGate abortPipeline: true[57;13H}[?25h[?25l[1;57r[1;1H[2M[1;58r[56;9H}
+    }[?25h[?25l[1;57r[1;1H[2M[1;58r[56;1H}
+[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;17Hstage("publish to nexus") {[?25h[?25l[1;57r[57;1H
+[1;58r[57;13Hsteps {[?25h[?25l[1;57r[1;1H[2M[1;58r[56;17Hscript {
+[?25h[?25l[1;57r[57;1H
+[1;58r[57;21Hsh  "mvn deploy"[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;9H}[?25h[?25l[1;57r[1;1H[2M[1;58r[56;5H}
+}[?25h[?25l[1;57r[57;1H
+[1;58r[57;9H*/[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H}[?25h[?25l[1;57r[57;1H
+[1;58r[57;1H}[58;11H[1m--a[m[58;13H[K[57;2H[?25h[58;1H[K[57;1H[?25l[?25h[?25l
+:[?2004h[?25hwq![?25l[?2004l"Jenkinsfile" [New] 81L, 2003C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# clear
+[3J[H[2J]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# ls
+'{'                   Dockerfile                  Jenkinsfile              JenkinsfileKubernetes   'Jenkins Kubernetes.pdf'   README.md        springBootMongo.yml   [0m[01;34mtarget[0m
+ docker-compose.yml   javawebapp-deployment.yml   JenkinsfileDockerSwarm   jenkinsfilemyspringapp   pom.xml                   springapp.yaml   [01;34msrc[0m
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# cat Jenkinsfile
+pipeline {
+    agent any
+        tools {
+            maven "maven-3.6.3"
+       /* choice(
+            name: 'sarath',
+            choices: ['DEV', 'QA', 'UAT', 'PROD'],
+            description: 'Passing the parameters')
+         */ 
+    }
+    
+    environment {
+
+        //NEXUS_VERSION = "nexus3"
+        //NEXUS_PROTOCOL = "http"
+        //NEXUS_URL = "13.233.121.236:8081"
+        //NEXUS_REPOSITORY = "sarath142"
+        //NEXUS_CREDENTIAL_ID = "nexus_cred"
+		registry = "bsarathkumar42/myspringapp1"
+        registryCredential = 'dockerhub'
+        dockerImage = ''
+		project = 'myspringapp1'
+		appName = 'myspringapp1'
+		serviceName = "${appName}-backend"  
+		imageVersion = 'development'
+		namespace = 'development'
+		namespace1 = 'production'
+		imageTag = "gcr.io/${project}/${appName}:${imageVersion}.${env.BUILD_NUMBER}"
+		//scannerHome = tool 'SonarQubeScanner'
+		  
+    }
+   /* stages {
+    stage('Environment') {
+      steps {
+        echo " The environment is ${params.Env}"
+      }
+    }
+  }*/
+    stages {
+        stage("clone code") {
+            steps {
+                script {
+                    
+                     git credentialsId: 'Github_credentials', url: 'https://github.com/bsarathkumar42/myspringapp1.git'
+                }
+            }
+        }
+        stage("mvn build") {
+            steps {
+                script {
+                             
+                    sh "mvn clean package -DskipTests=true"
+                }
+            }
+        }
+	/*	stage('Sonarqube') {
+			steps {
+				withSonarQubeEnv('sonar') {
+						sh " mvn sonar:sonar -Dsonar.host.url=http://52.66.250.13:9000 -Dsonar.login=11b8a2aced56d047f183092eb7268c9ae67c73e4 "
+          			    timeout(time: 02, unit: 'MINUTES') {
+							//waitForQualityGate abortPipeline: true
+            }
+        }
+    }
+}
+		  
+       		
+		stage("publish to nexus") {
+            steps {
+                script {
+                    
+                    sh  "mvn deploy"
+
+         
+        }
+    }
+}
+	*/	
+	
+}
+}
+]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# clear
+[3J[H[2J]0;root@ip-172-31-6-84:~/myspringapp1[root@ip-172-31-6-84 myspringapp1]# ls
+'{'                   Dockerfile                  Jenkinsfile              JenkinsfileKubernetes   'Jenkins Kubernetes.pdf'   README.md        springBootMongo.yml   [0m[01;34mtarget[0m
+ docker-compose.yml   javawebapp-deployment.yml   JenkinsfileDockerSwarm   jenkinsfilemyspringapp   pom.xml                   springapp.yaml 
